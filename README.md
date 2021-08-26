@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="1000" height="400" src="https://user-images.githubusercontent.com/76211798/129931208-6af05b6a-f22a-4927-92a2-94132f5575db.jpg">
+  <img width="1000" height="400" src="https://camo.githubusercontent.com/20842a93f5b29d60150e54b9dfd4623ef404f68415286a77ea4d6d26ebf8e83e/68747470733a2f2f656e637279707465642d74626e302e677374617469632e636f6d2f696d616765733f713d74626e3a414e64394763536d4c7936354939346c5f4d5433787230436a394f514e73355f6b38546f78396339715126757371703d434155">
 </p>
 <h1 align="center">
   <b>Hello Programmers!<b> <a href="https://www.INSTAGRAM.COM/rhy_nz" target="blank">RHYNZ</a> Was Here
