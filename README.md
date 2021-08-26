@@ -8,7 +8,7 @@
   <img width="600" height="220" src="https://github-readme-stats.vercel.app/api?username=rhynzid&show_icons=true&theme=chartreuse-dark&locale=id">
 </p>
 <p align="center">
-  <img width="400" height="120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhynz&layout=compact&theme=chartreuse-dark">
+  <img width="400" height="120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhynzid&layout=compact&theme=chartreuse-dark">
 </p>
 <p align="center">
   <a href="https://github.com/rhynzid/osif"><img width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=rhynzid&repo=osif&theme=chartreuse-dark"></a> <a href="https://github.com/rhynzid/personal-api"><img width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=rhynzid&repo=personal-api&theme=chartreuse-dark"></a>
