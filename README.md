@@ -11,9 +11,8 @@
   <img width="400" height="120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhynzid&layout=compact&theme=chartreuse-dark">
 </p>
 <p align="center">
-  <a href="https://github.com/rhynzid/osif"><img width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=rhynzid&repo=osif&theme=chartreuse-dark"></a> <a href="https://github.com/rhynzid/personal-api"><img width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=rhynzid&repo=personal-api&theme=chartreuse-dark"></a>
-  <a href="https://github.com/rhynzid/wa-automate-nodejs"><img width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=Rhynzid&repo=wa-automate-nodejs&theme=chartreuse-dark"></a> <a href="https://github.com/rhynzid/bot-whatsapp"><img width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=rhynzid&repo=bot-whatsapp&theme=chartreuse-dark"></a>
-  <a href="https://github.com/rhynzid/template-whatsapp-api"><img width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=rhynzid&repo=template-whatsapp-api&theme=chartreuse-dark"></a> <a href="https://github.com/rhynzid/lolhuman"><img width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=rhynzid&repo=lolhuman&theme=chartreuse-dark"></a>
+  <a href="https://github.com/rhynzid/osif"><img width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=rhynzid&repo=osif&theme=chartreuse-dark"></a> <a href="https://github.com/rhynzid/rhynzbot"><img width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=rhynzid&repo=rhynzbot&theme=chartreuse-dark"></a> 
+  <a href="https://github.com/rhynzid/linksosmed"><img width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=rhynzid&repo=linksosmed&theme=chartreuse-dark"></a>
 </p>
 <h3 align="center">
   <a href="https://saweria.co/rhynz" target="blank">Support Me!</a>
